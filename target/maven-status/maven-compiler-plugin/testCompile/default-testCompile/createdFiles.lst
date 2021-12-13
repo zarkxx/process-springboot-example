@@ -1,0 +1,4 @@
+org/kie/kogito/examples/demo/OrdersRestIT.class
+org/kie/kogito/examples/demo/PersonsRestIT.class
+org/kie/kogito/examples/demo/OrdersProcessIT.class
+org/kie/kogito/examples/demo/PersonProcessIT.class

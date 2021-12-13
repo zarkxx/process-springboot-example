@@ -1,0 +1,15 @@
+#Sun Dec 12 18:59:11 EST 2021
+configuration*?=52169B610629AD24907C1A36EED89699E986D54
+/Users/king/kogito/process-springboot-example/src/main/java/org/kie/kogito/examples/demo/Person.java=1638299512496
+/Users/king/kogito/process-springboot-example/src/main/java/org/kie/kogito/examples/KafkaConfig.java=1638299512496
+/Users/king/kogito/process-springboot-example/src/test/java/org/kie/kogito/examples/demo/PersonProcessIT.java=1638299512497
+/Users/king/kogito/process-springboot-example/src/main/java/org/kie/kogito/examples/CorsConfig.java=1638299512496
+/Users/king/kogito/process-springboot-example/src/main/resources/application.properties=1638299512496
+/Users/king/kogito/process-springboot-example/src/test/java/org/kie/kogito/examples/demo/OrdersRestIT.java=1638299512497
+/Users/king/kogito/process-springboot-example/src/test/java/org/kie/kogito/examples/demo/PersonsRestIT.java=1638299512497
+/Users/king/kogito/process-springboot-example/src/main/java/org/kie/kogito/examples/PersonValidationService.java=1638299512496
+/Users/king/kogito/process-springboot-example/src/main/java/org/kie/kogito/examples/CalculationService.java=1638299512496
+/Users/king/kogito/process-springboot-example/src/test/java/org/kie/kogito/examples/demo/OrdersProcessIT.java=1638299512497
+/Users/king/kogito/process-springboot-example/src/test/resources/application.properties=1638299512497
+/Users/king/kogito/process-springboot-example/src/main/java/org/kie/kogito/examples/demo/Order.java=1638299512496
+/Users/king/kogito/process-springboot-example/src/main/java/org/kie/kogito/examples/DemoApplication.java=1638299512496

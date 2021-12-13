@@ -1,0 +1,1 @@
+{"$schema":"http://json-schema.org/draft-07/schema#","type":"object","properties":{"input1":{"type":"object","properties":{"orderNumber":{"type":"string"},"shipped":{"type":"boolean"},"total":{"type":"number"}},"input":true}}}
